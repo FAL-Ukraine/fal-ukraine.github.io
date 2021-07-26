@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "ship": "Ship 1",
+    "imo": 9,
+    "portCall": 11,
+    "agent": "Vasya",
+    "ETA": "11:11:11"
+  },
+  {
+    "id": 2,
+    "ship": "Ship 2",
+    "imo": 3,
+    "portCall": 15,
+    "agent": "Ivanushka",
+    "ETA": "66:66:66"
+  }
+]
